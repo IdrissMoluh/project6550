@@ -1,7 +1,7 @@
 # DSAN 6550 Final Project
 ## Adaptive Measurement with AI – Computerized Adaptive Testing (CAT) Demo
 
-**Authors:** Idriss Moluh, Haichun Kang, Xiaolong Zhou, Qingqing Chen  
+**Author:** Idriss Moluh
 **Course:** DSAN 6550 Adaptive Measurement with AI – Spring 2025  
 **Instructor:** Dr. Qiwei (Britt) He  
 
@@ -162,12 +162,10 @@ These items cover:
 
 ---
 
-## 👥 Authors
+##  Author
 
 - Idriss Moluh  
-- Haichun Kang  
-- Xiaolong Zhou  
-- Qingqing Chen  
+
 
 (For DSAN 6550: Adaptive Measurement with AI, Spring 2025). Thanks!
 
